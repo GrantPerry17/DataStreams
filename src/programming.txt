@@ -1,0 +1,5 @@
+Java is an object-oriented language.
+Python is popular for data science.
+Java supports lambda expressions.
+C++ is used in many applications.
+Java programs can use streams.
